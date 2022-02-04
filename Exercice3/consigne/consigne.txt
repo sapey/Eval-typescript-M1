@@ -1,0 +1,14 @@
+1.Créer un dossier tp contenant 4 fichiers:
+    1.index.html
+    2.script.ts
+    3.tsconfig.json (à générer en ligne de commande)
+    4.script.js (à générer en ligne de commande)
+
+2.vous devez réaliser le design suivant(voir page suivante)
+
+3.pour remplir le design via l'utilisation de deux requêtes ajax sur les suivantes :
+
+    1.https://jsonplaceholder.typicode.com/users
+    2.https://jsonplaceholder.typicode.com/posts
+    3.et fusionner  et injecter dans le DOM 
+    4.lorsque vous remplirez le formulaire et que vous cliquez sur le bouton recherche vous allez effectuer un filtrage des résultats présents dans la page 
